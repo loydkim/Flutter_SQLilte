@@ -2,13 +2,14 @@
 
 A new Flutter application.
 
-Develop environment.
-Flutter Version: 1.12.13+hotfix.8
-Dart Version: 2.7.0
-Xcode Version: 11.3.1
-Android Studio: 3.5
-OS Version: MacOS Catalina 10.15.3
-Thank you for watching :)
+*Develop environment.
+
+- Flutter Version: 1.12.13+hotfix.8
+- Dart Version: 2.7.0
+- Xcode Version: 11.3.1
+- Android Studio: 3.5
+- OS Version: MacOS Catalina 10.15.3
+- Thank you for watching :)
 
 #Flutter, #SQLite, #Database
 
